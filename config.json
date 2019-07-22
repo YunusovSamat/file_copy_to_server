@@ -1,0 +1,16 @@
+{
+  "ftp": "",
+  "username": "",
+  "password": "",
+  "paths": [
+    {
+      "source_path": "",
+      "ftp_path": ""
+    },
+    {
+      "source_path": "",
+      "ftp_path": ""
+    }
+  ]
+}
+
